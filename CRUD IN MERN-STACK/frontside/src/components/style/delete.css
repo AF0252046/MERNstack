@@ -1,0 +1,25 @@
+.del input{
+   width: 500px;
+   height: 30px;
+   border: 2px solid black;
+}
+
+.del{
+    /* padding-left: 500px;
+    padding-top: 200px; */
+    text-align: center;
+    height: 300px;
+    width: 700px;
+    border: 2px solid black;
+}
+.del button{
+    width: 510px;
+    height: 30px;
+    background-color: red;
+ }
+ .alldel{
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 400px;
+ }
+ 

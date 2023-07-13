@@ -1,0 +1,12 @@
+.all{
+    display: inline-flex;
+}
+.mainn{
+    text-align: center;
+    border: 2px solid black;
+    width:920px;
+    height: 700px;
+}
+.hii{
+    padding-left: 50px;
+}

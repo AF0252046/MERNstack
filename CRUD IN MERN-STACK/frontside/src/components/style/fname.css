@@ -1,0 +1,21 @@
+
+.inputt{
+    padding-top: 100px;
+    border: 2px solid black;
+    width:600px;
+    height: 200px;
+    text-align: center;
+}
+.inn{
+    padding-top: 100px;
+    padding-left: 160px;
+}
+.inputt input{
+    width: 400px;
+    height: 30px;
+}
+.inputt button{
+    width: 400px;
+    height: 30px;
+    background-color: aqua;
+}
